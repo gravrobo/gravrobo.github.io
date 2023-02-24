@@ -3,8 +3,8 @@
 
   <head>
     <meta charset='utf-8'>
-    <title>Gravel Robotics | Realizing Programmable Matter</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Gravel Robotics | Realizing Programmable Matter</title>
     <meta name="viewport" content="width=device-width, maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
@@ -14,10 +14,42 @@
     <link rel="manifest" href="/site.webmanifest">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-    
+      
+    <script>
+      function myFunction() {
+        var x = document.getElementById("myNavbar");
+        if (x.className === "navbar") {
+          x.className += " responsive";
+        } else {
+          x.className = "navbar";
+        }
+      }
+    </script>
+  
   </head>
 
-  <body>
+  <body style="background-color:black;">
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+        </header>
+    </div>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <div class="navbar" id="myNavbar">
+      <left>
+        <img src="https://user-images.githubusercontent.com/124388206/220789168-1aaa493f-0d6a-492c-ba7f-6de93dafca18.png" height="75" align="left">
+      </left>
+        <a href="#aboutus" align="right" class="active">About Us</a>
+        <a href="#news" align="right">News</a>
+        <a href="#careers" align="right">Careers</a>
+        <a href="#technology" align="right">Technology</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+          <i class="fa fa-bars"></i>
+        </a>
+    </div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
@@ -27,10 +59,8 @@
     </div>
 
     <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <center><p>&copy; 2023 Gravel Robotics. All rights reserved.</p></center>
-      </footer>
+    <div class="footer">
+      <p>&copy; 2023 Gravel Robotics. All rights reserved.</p>
     </div>
 
     {% if site.google_analytics %}
