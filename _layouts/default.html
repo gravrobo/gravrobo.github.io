@@ -87,7 +87,7 @@
 
       function updateText() {
         textRotate.textContent = words[wordIndex];
-        textRotate.classList.add('gradient'); // add the gradient class to the visible text
+        textRotate.classList.add('gradient');
       }
 
       setInterval(function() {
@@ -95,8 +95,8 @@
         if (wordIndex >= words.length) {
           wordIndex = 0;
         }
-        textRotate.classList.remove('gradient'); // remove the gradient class from the hidden text
-        setTimeout(updateText, 500); // wait 500ms before updating the text to allow for fade-out effect
+        textRotate.classList.remove('gradient');
+        setTimeout(updateText, 500);
       }, 2000);
     </script>
   
