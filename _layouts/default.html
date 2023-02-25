@@ -89,28 +89,27 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+          <div class="navbar" id="myNavbar">
+            <left>
+              <a href="https://www.gravelrobotics.com">
+                <img src="https://user-images.githubusercontent.com/124388206/220789168-1aaa493f-0d6a-492c-ba7f-6de93dafca18.png" height="75" align="left">
+              </a>
+            </left>
+            <div class="navelements" id="myNavelements">
+              <a href="about-us" align="right" class="active">About Us</a>
+              <a href="news" align="right">News</a>
+              <a href="careers" align="right">Careers</a>
+              <a href="technology" align="right">Technology</a>
+              <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars" style="font-size:34px"></i>
+              </a>
+          </div>
         </header>
     </div>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-    <div class="navbar" id="myNavbar">
-      <left>
-        <a href="https://www.gravelrobotics.com">
-          <img src="https://user-images.githubusercontent.com/124388206/220789168-1aaa493f-0d6a-492c-ba7f-6de93dafca18.png" height="75" align="left">
-        </a>
-      </left>
-      <div class="navelements" id="myNavelements">
-        <a href="about-us" align="right" class="active">About Us</a>
-        <a href="news" align="right">News</a>
-        <a href="careers" align="right">Careers</a>
-        <a href="technology" align="right">Technology</a>
-        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-          <i class="fa fa-bars" style="font-size:34px"></i>
-        </a>
-    </div>
-
-    <!-- MAIN CONTENT -->
+        <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
