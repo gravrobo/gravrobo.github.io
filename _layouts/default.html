@@ -80,6 +80,24 @@
         css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #666 }";
         document.body.appendChild(css);
       };
+      
+      var textRotate = document.querySelector('.txt-rotate');
+      var words = JSON.parse(textRotate.getAttribute('data-rotate'));
+      var wordIndex = 0;
+
+      function updateText() {
+        textRotate.textContent = words[wordIndex];
+        textRotate.classList.add('gradient'); // add the gradient class to the visible text
+      }
+
+      setInterval(function() {
+        wordIndex++;
+        if (wordIndex >= words.length) {
+          wordIndex = 0;
+        }
+        textRotate.classList.remove('gradient'); // remove the gradient class from the hidden text
+        setTimeout(updateText, 500); // wait 500ms before updating the text to allow for fade-out effect
+      }, 2000);
     </script>
   
   </head>
