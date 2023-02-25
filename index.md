@@ -7,7 +7,7 @@
   </span>
 </h1></b></center>
 <div class="spacer"></div>
-<center><h4>At Gravel, we're building the future — literally. From the largest coordinated fleet to the smallest custom tool, our programmable materials dynamically reconfigure to not only meet your needs, but <span style="background: linear-gradient(to right, #8117EB, #38B6FF, #FF66C4); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">commit to them.</span></h4></center>
+<center><h4>At Gravel, we're building the future — literally. From the largest coordinated fleet to the smallest custom tool, our programmable materials dynamically reconfigure to not only meet your needs, but <b>commit to them.</b></h4></center>
 <div class="spacer"></div>
 <center>
   <a href="https://tally.so/r/3XLo1d" target="_blank" rel="noopener noreferrer">
