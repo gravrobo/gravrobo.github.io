@@ -29,6 +29,14 @@ h1 {
   color: #FFFFFF;
 }
 
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 2em;
+    font-weight: 200;
+    color: #FFFFFF;
+  }
+}
+
 h2, h3, h4 {
   color: #FFFFFF;
   font-weight: 300;
