@@ -6,7 +6,7 @@
      data-rotate='[ "intelligent.", "reconfigurable.", "autonomous.", "responsive.", "digital.", "work for you." ]'>
   </span>
 </h1></b></center>
-<br>
+
 <center><h4>At Gravel, we're building the future — literally. Our programmable materials dynamically reconfigure to meet your needs, whether you're constructing a smart 100-story skyscraper or a self-adjusting pipe wrench.</h4></center>
 
 <center>
