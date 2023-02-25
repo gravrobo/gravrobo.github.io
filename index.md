@@ -8,7 +8,7 @@
 </h1></b></center>
 <br>
 <center><h4>At Gravel, we're building the future — literally. Our programmable materials dynamically reconfigure to meet your needs, whether you're constructing a smart 100-story skyscraper or a self-adjusting pipe wrench.</h4></center>
-<br>
+<div class="spacer"></div>
 <center>
   <a href="https://tally.so/r/3XLo1d" target="_blank" rel="noopener noreferrer">
     <img src="https://user-images.githubusercontent.com/126240516/221166843-9c5dca21-7bfd-4a90-841a-bc81f20f6893.png" height="100" align="center">
