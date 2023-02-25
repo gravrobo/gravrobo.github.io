@@ -1,6 +1,6 @@
 <br><br><br><br><br><br><br><br><br>
 <center><b><h1>Making materials
-  <span style="background: linear-gradient(to right, #f32170, #ff6b08, #cf23cf, #eedd44); -webkit-text-fill-color: transparent; -webkit-background-clip: text;"
+  <span style="background: linear-gradient(to right, #8117EB, #38B6FF, #FF66C4); -webkit-text-fill-color: transparent; -webkit-background-clip: text;"
      class="txt-rotate"
      data-period="2000"
      data-rotate='[ "intelligent", "reconfigurable", "autonomous", "responsive", "digital", "work for you" ]'>
