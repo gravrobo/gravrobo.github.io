@@ -57,18 +57,6 @@ h4 {
   border-right: 0.08em solid #666;
 }
 
-.gradient-text {
-  background: linear-gradient(to right, #38B6FF, #8117EB, #FF66C4);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-.rotate-container .rotate-item:first-child .gradient-text {
-  background: linear-gradient(to right, #38B6FF, #8117EB, #FF66C4);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
 .navbar {
   position: fixed;
   z-index: 100;
