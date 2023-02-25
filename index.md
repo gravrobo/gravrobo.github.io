@@ -6,9 +6,9 @@
      data-rotate='[ "intelligent", "reconfigurable", "autonomous", "responsive", "digital", "work for you" ]'>
   </span>
 </h1></b></center>
-<div class="spacer"></div>
+<div class="midspacer"></div>
 <center><h4>At Gravel, we're building the future — literally. From the largest coordinated fleet to the smallest custom tool, our programmable materials dynamically reconfigure to not only meet your needs, but commit to them.</h4></center>
-<div class="spacer"></div>
+<div class="lilspacer"></div>
 <center>
   <a href="https://tally.so/r/3XLo1d" target="_blank" rel="noopener noreferrer">
     <img src="https://user-images.githubusercontent.com/126240516/221166843-9c5dca21-7bfd-4a90-841a-bc81f20f6893.png" height="100" align="center">
