@@ -7,7 +7,7 @@
   </span>
 </h1></b></center>
 <div class="spacer"></div>
-<center><h4>At Gravel, we're building the future — literally. Our programmable materials dynamically reconfigure to meet your needs, whether you're constructing a smart 100-story skyscraper or a self-adjusting pipe wrench.</h4></center>
+<center><h4>At Gravel, we're building the future — literally. Our programmable materials dynamically reconfigure to meet your needs, whether you're constructing adaptable aircraft wings or a self-adjusting pipe wrench.</h4></center>
 <div class="spacer"></div>
 <center>
   <a href="https://tally.so/r/3XLo1d" target="_blank" rel="noopener noreferrer">
