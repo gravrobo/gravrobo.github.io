@@ -3,7 +3,7 @@
   <span
      class="txt-rotate"
      data-period="2000"
-     data-rotate='[ "intelligent.", "reconfigurable.", "autonomous.", "responsive.", "digital.", "work for you." ]'>
+     data-rotate='[ "intelligent", "reconfigurable", "autonomous", "responsive", "digital", "work for you" ]'>
   </span>
 </h1></b></center>
 <div class="spacer"></div>
