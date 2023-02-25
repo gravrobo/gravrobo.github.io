@@ -110,20 +110,6 @@ h4 {
   }
 }
 
-@media screen and (max-width: 600px) {
-  .navbar {
-    flex-direction: column;
-  }
-  
-  .navbar a:first-child {
-    order: 2;
-  }
-  
-  .navbar a:last-child {
-    order: 1;
-  }
-}
-
 .spacer {
   height: 10px;
 }
